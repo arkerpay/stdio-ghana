@@ -59,8 +59,15 @@ Course Logistics
 
 IT Infrastructure
 
-Computer Lab/Classroom consisted of 35 workstations, but about 20% of the workstations were inoperative or did not have internet access (Carl, did you record an exact count?)  The workstations were loaded with windows 7.
+Computer Lab/Classroom consisted of 35 workstations, but about 20% of the workstations were inoperative or did not have internet access (Carl, did you record an exact count?)  The workstations were loaded with windows 7.  They were not ready for use.
 
+The University of Ghana does not appear to have a consistent sysadmin policy.  Accounts used by students had administrator privileges.  Each workstation had a different mix of superflous programs (entertainment mostly) loaded.  These programs were (eventually) removed.
+
+Students surfing the web and downloading programs with admin privileges introduced a lot of malware.  The freeware program, "Malware Bytes", was used to scan each machine.  A staggering amount of malware was discovered.  One machine had over 5000 malware objects, but the typical amount fell into the 50-200 range of malware objects.  The malware was of all types: adware, rootkits, spam generators, keyloggers, click fraud, etc.  As malware was removed, interesting things were discovered.  My favorite was the malware that kept pinging its home servers in Russia for instructions, which were then being blocked.
+
+Windows updates were not applied or even turned on most of the machines.  Much time and effort (the entire weekend) was spent updating windows, removing malware and superflous programs from machines in the lab.
+
+This experience leads to two different recommendations.
 
 
 
