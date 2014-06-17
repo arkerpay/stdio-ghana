@@ -51,8 +51,19 @@ small basin/canteen for shaving (with bottled water)
 plug converters (power converters for non-electronics)
 
 
-
 Lodging
+
+
+Dining
+
+Infrastructure problems extend to food distribution.  A menu at a restaurant is a list of *possibilities*, not a list of what they actually have that night.  The Ghanian kitchens seem to use a FIFO structure.  A table of diners will not receive their food at the same time, but when it is ready.  You will also wait an indeterminant period of time for your meal.  I once waited over an hour for a small pizza.
+
+
+Ghanian Culture
+
+There are differences.  The people seem very honest at their core; Carl left CD 60 in his pocket and the laundress returned it.  Taxi drivers provided accurate fare information and directions from people on the street were accurate.  However, there were situations where questions were occasionally answered disonestly.
+
+Occasionally, answers were given that were untrue in situations where we would be given bad news.  When trying to coordinate
 
 
 Course Logistics
@@ -65,10 +76,12 @@ The University of Ghana does not appear to have a consistent sysadmin policy.  A
 
 Students surfing the web and downloading programs with admin privileges introduced a lot of malware.  The freeware program, "Malware Bytes", was used to scan each machine.  A staggering amount of malware was discovered.  One machine had over 5000 malware objects, but the typical amount fell into the 50-200 range of malware objects.  The malware was of all types: adware, rootkits, spam generators, keyloggers, click fraud, etc.  As malware was removed, interesting things were discovered.  My favorite was the malware that kept pinging its home servers in Russia for instructions, which were then being blocked.
 
-Windows updates were not applied or even turned on most of the machines.  Much time and effort (the entire weekend) was spent updating windows, removing malware and superflous programs from machines in the lab.
+Windows updates were not applied or even turned on most of the machines.  Much time and effort (the entire weekend) was spent updating windows, removing malware and superflous programs from machines in the lab.  This was a prerequisite before the VMWare and Linux distribution were loaded on each machine.
 
 This experience leads to two different recommendations.
 
+Advance Team.  Assuming future venues are similar, send two IT-savvy instructors 2 days in advance to configure the lab for use by the instructors and students.
 
+Train the staff.  Provide instruction to the educational institution staff on IT admin.  This might be more valuable long term, as the work we did configuring machines will swiftly be nullified by the current set of bad practices.  The idea is that the local staff can configure the machines and maintain them in the future.  Cultural differences and sensitivities may prove a challenge here.
 
 
